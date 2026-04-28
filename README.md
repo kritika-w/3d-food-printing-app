@@ -1,4 +1,4 @@
-# 3D Food Printing App 
+# 3D food printing app 
  
 full-stack AI-powered mobile app that turns food ideas into 3D-printable designs. simply chat with the ai about what you want to create (like "heart-shaped vegetarian pizza"), and the app generates a downloadable 3d model ready for food printing. built with flutter for the mobile interface and python/flask backend with gemini ai for conversation and meshy ai for 3d generation.
 
